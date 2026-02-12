@@ -19,6 +19,7 @@ The primary focus is **PHP** and **Laravel**, but since my work also spans HTML,
 | File | Description |
 |------|-------------|
 | `AUTHENTICATION_REQUIREMENTS_LLM.md` | Full Laravel authentication system — email/password login, registration, password reset, roles & permissions, user suspension, email verification, 2FA (TOTP), passkeys (WebAuthn), and OAuth (GitHub) |
+| `CRAFT_CMS_TWIG_TEMPLATING_LLM.md` | Craft CMS 5 Twig templating — entry queries, eager loading, asset transforms, Matrix fields, navigation, global sets, caching, pagination, forms, and common pitfalls |
 
 ## Usage
 
