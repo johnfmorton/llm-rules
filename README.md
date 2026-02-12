@@ -1,4 +1,4 @@
-# llm-rules
+# LLM Coding Tool Instruction Documents
 
 Reusable instruction documents for LLM coding tools like [Claude Code](https://claude.ai/code), Cursor, and GitHub Copilot. Each document is a self-contained specification that an LLM can follow to implement a common feature from scratch.
 
